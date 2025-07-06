@@ -2,7 +2,7 @@
 
 while true; do
   clear
-  echo -e "\033[1;36m🌀 Gensyn Node Automation Menu:\033[0m"
+  echo -e "\033[1;36m🌀 GG ARMY Gensyn Node Automation Menu:\033[0m"
   echo "1️⃣  Install all dependencies"
   echo "2️⃣  Start GEN tmux session (Gensyn Node)"
   echo "3️⃣  Start LOC tmux session (Firewall + Tunnel)"
